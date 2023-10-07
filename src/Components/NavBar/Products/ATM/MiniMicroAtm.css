@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Poppins";       
+}
+.miniatm-img{
+    width: 85%;
+    height: 23rem;
+    border-radius: 55px;
+    padding: 20px;
+    margin:40px 0 0 50px;  
+    transition: 0.5s ease;
+}
+.miniatm-img:hover{
+    width: 88%;
+    height: 24rem;
+}
+.miniatm-section{
+background:#F3F4F6;
+padding: 103px 0;
+
+}
+.border-change-miniatm{
+    border-radius: 30px;
+}
+.miniatm-heading{
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 60px;
+    margin-left: 30px;
+
+}
+.text-section-miniatm{
+    margin-top: 20px;
+line-height: 1.9;
+    color: black;
+}

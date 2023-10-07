@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Poppins";       
+}
+.bbpsrecharge-img{
+    width: 85%;
+    height: 22rem;
+    border-radius: 40px;
+    padding: 20px;
+    margin:40px 0 0 50px;  
+    transition: 0.5s ease;
+}
+.bbpsrecharge-img:hover{
+    width: 90%;
+    height: 23rem;
+}
+.bbpsrecharge-section{
+background:#F3F4F6;
+padding: 103px 0;
+
+}
+.border-change-bbpsrecharge{
+    border-radius: 30px;
+}
+.bbpsrecharge-heading{
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 60px;
+    margin-left: 30px;
+
+}
+.text-section-bbpsrecharge{
+    margin-top: 20px;
+line-height: 1.9;
+    color: black;
+}

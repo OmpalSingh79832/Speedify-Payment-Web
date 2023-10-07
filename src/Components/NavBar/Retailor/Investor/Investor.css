@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Poppins";       
+}
+.investor-img{
+    width: 85%;
+    height: 22rem;
+    border-radius: 40px;
+    padding: 20px;
+    margin:40px 0 0 50px;  
+    transition: 0.5s ease;
+}
+.investor-img:hover{
+    width: 90%;
+    height: 23rem;
+}
+.investor-section{
+background:#F3F4F6;
+padding: 103px 0;
+
+}
+.border-change{
+    border-radius: 30px;
+}
+.investor-heading{
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 60px;
+
+}
+.text-section-investor{
+    margin-top: 20px;
+    line-height: 2.9;
+    color: black;
+}

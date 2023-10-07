@@ -1,0 +1,90 @@
+.button-design {
+    background: #fbc96d;
+    padding: 2px 6px;
+    border-radius: 20px;
+}
+
+.covered {
+    margin-left: 230px;
+    text-align: center;
+    width: 700px;
+    color: gray;
+}
+
+.baground {
+    background-color: #fffcf6;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+.made-contact-btn {
+    background-color: #c93f3f;
+    border-radius: 10px;
+    border: none;
+    height: 45px;
+    width: 160px;
+    margin-top: 30px;
+}
+
+.made-contact-btn:hover {
+    transform: scaleX(1.1);
+    background: rgb(44, 92, 235);
+    transition: transform 0.5s ease-in;
+
+}
+
+.retailor-image {
+    width: 28rem;
+    border-radius: 8px;
+    height: 20rem;
+    margin-bottom: 20px;
+    margin-top: 70px;
+    margin-left: 70px;
+}
+
+.retailor-image:hover {
+    transform: scaleX(1.1);
+    transition: background-color 0.5s ease-in;
+    transition: transform 0.5s ease-in;
+}
+
+.distributor-image {
+    width: 30rem;
+    border-radius: 8px;
+    height: 22rem;
+    margin-bottom: 20px;
+    margin-top: 70px;
+    margin-left: 40px;
+}
+
+.distributor-image:hover {
+    transform: scaleX(1.1);
+    transition: background-color 0.5s ease-in;
+    transition: transform 0.5s ease-in;
+}
+
+.view-ducument-btn {
+    background: #c93f3f;
+    border-radius: 10px;
+    border: none;
+    height: 45px;
+    width: 160px;
+    margin-top: 50px;
+}
+
+.view-ducument-btn:hover {
+    transform: scaleX(1.1);
+    transition: background-color 0.5s ease-in;
+    transition: transform 0.5s ease-in;
+    background: rgb(44, 92, 235);
+}
+
+.learn-more-text {
+    margin-top: 40px;
+    margin-left: 10px;
+    color: orange;
+}
+
+.all-systematic {
+    display: flex;
+}

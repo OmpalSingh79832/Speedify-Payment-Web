@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Poppins";       
+}
+
+
+
+.aboutus-img{
+    width: 85%;
+    height: 23rem;
+    border-radius: 55px;
+    padding: 20px;
+    margin:50px 0 20px 30px;  
+    transition: 0.5s ease;
+}
+.aboutus-img:hover{
+    width: 88%;
+    height: 24rem;
+}
+.aboutus-bg{
+    background:#F3F4F6;
+    
+    margin-top: 103px;
+    border-radius: 30px;
+}
+.aboutus-head{
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 60px;
+    margin-left: 30px;
+}

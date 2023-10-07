@@ -1,0 +1,339 @@
+/* style={{textAlign:"center", fontWeight:"700"}} */
+.heading-home {
+    width: 100%;
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    color: gray;
+    margin-top: 100px;
+}
+
+
+.home-btn {
+    position: absolute;
+    margin: 0;
+    top: 65%;
+    left: 45%;
+    border-style: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 700;
+    width: fit-content;
+    white-space: nowrap;
+    padding: 12px 25px;
+    margin: 0.3em;
+    color: #fff !important;
+    background: #c93f3f;
+
+}
+
+.home-btn:hover {
+    transform: scaleX(1.1);
+    background: rgb(44, 92, 235);
+    transition: background-color 0.5s ease-in;
+    transition: transform 0.5s ease-in;
+
+
+}
+
+.home-img {
+    width: 40rem;
+    margin-left: 18rem;
+    margin-top: 8rem;
+}
+
+.home-img:hover {
+    transform: scale(1.1);
+    transition: transform 0.5s ease-in;
+    transition: transform 0.5s ease-in-out;
+}
+
+.mouse {
+    font-size: 40px;
+    text-align: center;
+}
+
+.banking-service {
+    font-weight: 700;
+    text-align: center;
+    margin-top: 50px;
+    color: gray;
+}
+
+.banking-service-line {
+    border: 2px solid orange;
+    width: 50px;
+    margin-left: 45%;
+    border-radius: 2px;
+}
+
+.para-home {
+    margin-left: 150px;
+    margin-top: 40px;
+    font-size: large;
+    margin-right: 40px;
+}
+
+.slider-container {
+    border: 1px solid rgb(205, 121, 121);
+    background: #fffcf6;
+    margin-top: 50px;
+    width: 60rem;
+    height: 20rem;
+    margin-bottom: 40px;
+}
+
+.img-transfer {
+    width: 80%;
+    height: 80%;
+    padding: 10px;
+    border-radius: 50px;
+    color: transparent;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.right-text {
+    margin-top: 70px;
+    margin-left: 50px;
+
+    font-weight: 00;
+}
+
+.right-text h4 {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.styamev-image {
+    width: 15rem;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+
+.lion-image-io {
+    width: 15rem;
+    margin-left: 90px;
+}
+
+.ministry-image-io {
+    width: 15rem;
+    margin-left: 30px;
+}
+
+
+
+/* @media only screen and (max-width: 480px) { */
+@media screen and (max-width:480px) and (min-width:350px) {
+    .img-transfer {
+        width: 84%;
+        margin-top: 26px;
+        border-radius: 17px;
+        margin-left: 20px;
+    }
+
+    .styamev-image {
+        width: 20rem;
+        margin-left: 21px;
+        margin-top: -47px;
+        margin-bottom: 31px;
+    }
+
+    .lion-image-io {
+        width: 15rem;
+        margin-left: 42px;
+        margin-top: 16px;
+    }
+
+    .right-text {
+        margin-top: 40px;
+        margin-left: 44px;
+
+    }
+
+    .ministry-image-io {
+        width: 15rem;
+        margin-left: 30px;
+        margin-top: 40px;
+    }
+
+    .heading-home {
+        font-size: 30px;
+        max-width: 95%;
+        margin-top: 0;
+        margin-bottom: 5px;
+        line-height: 1.15;
+        color: black;
+        font-weight: 700;
+    }
+
+    .home-btn {
+        left: 27%;
+    }
+
+    .home-img {
+        width: 15rem;
+        margin-left: 3rem;
+        margin-top: 10rem;
+    }
+
+    .mouse {
+        margin-top: 73px;
+    }
+
+
+    .banking-service {
+        font-size: 27px;
+        text-align: center;
+        margin-top: -1px;
+        padding-top: 29px;
+
+    }
+
+    .banking-service-linee {
+        margin-left: 43% !important;
+    }
+
+    .instant-1 {
+        margin-left: 119px !important;
+    }
+
+    .instant-2 {
+        margin-left: 137px !important;
+    }
+
+    .heading2 {
+        margin-left: 6px !important;
+        margin-top: 32px !important;
+        text-align: center !important;
+    }
+
+    .instant-3 {
+        margin-left: 138px !important;
+    }
+
+    .heading1 {
+        margin-left: 49px !important;
+        margin-top: 25px;
+        color: gray;
+    }
+
+    .heading3 {
+        margin-left: -1px !important;
+        margin-top: 38px !important;
+        text-align: center !important;
+    }
+
+    .document1 {
+        width: 19rem !important;
+        margin-left: -21px !important;
+        margin-top: 110px !important;
+    }
+
+    .document2 {
+        width: 22rem !important;
+        margin-left: -21px !important;
+        margin-top: 110px !important;
+    }
+
+    .my-3 {
+        margin-top: 2rem !important;
+    }
+
+
+    .containt {
+        width: 20rem !important;
+        /* text-align: center; */
+        margin-left: 10px !important;
+        justify-content: right !important;
+        margin-top: 25px;
+        margin-bottom: 0px;
+    }
+
+    .learn-more-text {
+        margin-top: 95px !important;
+        margin-left: -156px !important;
+    }
+
+    .retailor-image {
+        width: 20rem !important;
+        border-radius: 8px !important;
+        height: 15rem !important;
+        margin-bottom: 27px !important;
+        margin-top: 30px !important;
+        margin-left: 4px !important;
+    }
+
+    .distributor-image {
+        width: 20rem !important;
+        border-radius: 8px !important;
+        height: 15rem !important;
+        margin-bottom: 27px !important;
+        margin-top: 30px !important;
+        margin-left: 4px !important;
+    }
+
+    .all-systematic {
+        display: block !important;
+    }
+
+    .covered {
+        text-align: center !important;
+        margin-left: 10px !important;
+        width: fit-content !important;
+        margin-top: 40px !important;
+    }
+
+    .footer-page {
+        padding-bottom: 0px !important;
+    }
+
+
+    .all-reserved-footer {
+        margin-top: 20px !important;
+        font-size: small !important;
+        font-weight: 700 !important;
+        margin-left: 25px !important;
+    }
+
+    .para-int2 {
+        margin-left: -26px !important;
+        margin-top: 30px !important;
+    }
+
+
+    .paragraph {
+        width: 150px !important;
+        margin-left: 89px !important;
+    }
+
+    .para-home {
+        width: 333px;
+        margin-left: 10px;
+        margin-top: 23px;
+        margin-right: 0px;
+        font-size: large;
+        line-height: 1.67;
+        text-align: center;
+    }
+
+    .home-btn {
+        top: 46%;
+    }
+
+
+    .slider-container {
+        border: 1px solid rgb(205, 121, 121);
+        background: #fffcf6;
+        margin-top: 44px;
+        width: 20rem !important;
+        height: 33rem !important;
+        margin-bottom: 40px;
+    }
+
+    .slider-container {
+        display: block !important;
+    }
+
+}
